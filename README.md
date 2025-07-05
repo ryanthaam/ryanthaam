@@ -9,7 +9,7 @@
 ### 📌 About Me
 
 🎯 Product Manager based in Sydney, working at the intersection of business, design, and technology.  
-🔍 Currently building an AI-powered trading assistant using Random Forest + GPT-4.  
+🔍 Currently building projects that combine machine learning, product thinking, and real-world impact.  
 📈 Obsessed with user-centric design, iteration loops, and high-signal decision-making.  
 🎮 Love crypto, gaming (Dota 2), and building systems that scale.
 
@@ -26,7 +26,22 @@ Tech Stack: `Python`, `Pine Script`, `scikit-learn`, `GPT-4`, `Streamlit`, `Figm
 
 ---
 
-#### 📊 Churn Prediction Dashboard *(Mock Data)*
+#### 🔐 **Fine Print** – T&C Summarizer for Humans *(Ideation & Research Phase)*  
+> Most people blindly accept Terms & Conditions without reading them — not because they don’t care, but because the language is dense, boring, and full of legal traps.  
+>
+> **Fine Print** is an AI-powered tool that breaks down T&Cs and privacy policies into plain-English summaries. It tells you:  
+> • What data is collected  
+> • What you’re agreeing to  
+> • 🚨 Any red flags (auto-renewals, arbitration, third-party sharing)  
+>
+> It’s built for everyday users who want **transparency without the 20-page scroll**.
+
+Tech Stack: `GPT-4`, `LangChain`, `Streamlit`, `Python`, `Figma`, `Firebase`  
+→ [Case study and prototype coming soon]
+
+---
+
+#### 📊 Churn Prediction Dashboard *(Mock Data)*  
 > Visualizes churn probability from behavioral indicators. Includes user segmentation and NPS integration.
 
 Tech Stack: `Power BI`, `Python`, `pandas`, `matplotlib`, `RICE`, `A/B testing`  
