@@ -25,7 +25,7 @@ Tech Stack: `Python`, `Streamlit`, `GPT-4`, `KMeans`, `UMAP`, `Supabase`, `sente
 
 ---
 
-#### 📈 Algo Trading Bot – Signal-Based Strategy Engine *(Building)*  
+#### 📈 AlgoBot – Signal-Based Strategy Engine *(Building)*  
 > Crypto trading bot that uses ML (Random Forest) to classify trade setups and signal entries.  
 > Integrated with Pine Script strategies and GPT-4 for explainability.
 
