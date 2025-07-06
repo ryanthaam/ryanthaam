@@ -16,7 +16,7 @@
 
 ### 🚀 Featured Projects
 
-#### 📊 SurveyGPT – AI-Powered Survey Insight Generator *(Building)*  
+#### 📊 SurveyGPT-ai – AI-Powered Survey Insight Generator *(Building)*  
 > Turn survey results into instantly actionable insights using GPT-4 + ML.  
 > Upload CSV → cluster feedback → auto-summarize trends → export results.
 
