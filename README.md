@@ -8,57 +8,47 @@
 
 ### 📌 About Me
 
-🎯 Product Manager based in Sydney, working at the intersection of business, design, and technology.  
-🔍 Currently building projects that combine machine learning, product thinking, and real-world impact.  
-📈 Obsessed with user-centric design, iteration loops, and high-signal decision-making.  
-🎮 Love crypto, gaming (Dota 2), and building systems that scale.
+🎯 Product Manager in Sydney, working at the intersection of AI, design, and user needs.  
+🧠 Currently building two AI-powered products from scratch.  
+📈 Obsessed with high-signal decision making, fast feedback loops, and solving real problems with data.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧠 AI Trading Assistant *(WIP)*
-> ML-powered crypto trading bot using Random Forest and GPT-4 to predict setups.  
-> Includes an explainable UI for trade confidence, visual backtesting, and risk controls.
+#### 📊 SurveyGPT – AI-Powered Survey Insight Generator *(Building)*  
+> Turn survey results into instantly actionable insights using GPT-4 + ML.  
+> Upload CSV → cluster feedback → auto-summarize trends → export results.
 
-Tech Stack: `Python`, `Pine Script`, `scikit-learn`, `GPT-4`, `Streamlit`, `Figma`  
-→ [Coming soon: repo + demo]()
-
----
-
-#### 🔐 **Fine Print** – T&C Summarizer for Humans *(Ideation & Research Phase)*  
-> Most people blindly accept Terms & Conditions without reading them — not because they don’t care, but because the language is dense, boring, and full of legal traps.  
->
-> **Fine Print** is an AI-powered tool that breaks down T&Cs and privacy policies into plain-English summaries. It tells you:  
-> • What data is collected  
-> • What you’re agreeing to  
-> • 🚨 Any red flags (auto-renewals, arbitration, third-party sharing)  
->
-> It’s built for everyday users who want **transparency without the 20-page scroll**.
-
-Tech Stack: `GPT-4`, `LangChain`, `Streamlit`, `Python`, `Figma`, `Firebase`  
-→ [Case study and prototype coming soon]
+Tech Stack: `Python`, `Streamlit`, `GPT-4`, `KMeans`, `UMAP`, `Supabase`, `sentence-transformers`  
+→ [Repo coming soon]() • [Demo preview]()
 
 ---
 
-#### 📊 Churn Prediction Dashboard *(Mock Data)*  
-> Visualizes churn probability from behavioral indicators. Includes user segmentation and NPS integration.
+#### 📈 Algo Trading Bot – Signal-Based Strategy Engine *(Building)*  
+> Crypto trading bot that uses ML (Random Forest) to classify trade setups and signal entries.  
+> Integrated with Pine Script strategies and GPT-4 for explainability.
 
-Tech Stack: `Power BI`, `Python`, `pandas`, `matplotlib`, `RICE`, `A/B testing`  
-→ [Live project]() (optional) • [Figma mockups]() (optional)
+Tech Stack: `Python`, `scikit-learn`, `Pine Script`, `GPT-4`, `Streamlit`, `Backtesting.py`  
+→ [Repo coming soon]() • [Strategy deck]()
+
+---
+
+#### 🧊 Ice-Breaker App *(Archived)*  
+> Personalized conversation generator using real-time LinkedIn + Twitter data and GPT-4.
 
 ---
 
 ### 🧰 Skills & Stack
 
 **Frameworks**  
-`Agile` • `Scrum` • `MoSCoW` • `RICE` • `AARRR`  
+`Agile` • `Scrum` • `RICE` • `MoSCoW` • `AARRR`
 
-**Tech & Tools**  
-`Python` • `Pine Script` • `GPT-4` • `Power BI` • `Figma` • `Jira` • `Notion` • `SQL` • `Google Analytics`
+**Languages & Tools**  
+`Python` • `GPT-4` • `Streamlit` • `Pine Script` • `SQL` • `scikit-learn` • `LangChain` • `Jira` • `Figma` • `Notion`
 
 **Soft Skills**  
-🗣️ Stakeholder Management • 🎯 OKR-Driven Execution • 📊 Data-Backed Prioritization • 💡 UX-Led Discovery
+🗣️ Stakeholder Management • 🎯 Outcome-Driven Execution • 📊 Data-Informed Product Decisions • 💡 UX-Led Discovery
 
 ---
 
@@ -76,5 +66,5 @@ Tech Stack: `Power BI`, `Python`, `pandas`, `matplotlib`, `RICE`, `A/B testing`
 ---
 
 <p align="center">
-  ⚡️ *Always building. Always learning.* ⚡️
+  ⚡️ *Always shipping. Always iterating.* ⚡️
 </p>
