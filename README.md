@@ -1,54 +1,61 @@
 <h1 align="center">Hey, I'm Ryan Tham 👋</h1>
 <p align="center">
-  💼 Product Manager · 🎓 UNSW Grad · 🧠 AI/ML Explorer · 🛠️ Builder<br/>
-  Passionate about creating delightful products with data and intelligence.
+  💼 Product Builder · 🤖 AI/ML Explorer · 🛠️ Full-Stack Tinkerer · 🎓 UNSW Grad  
+  Turning data and intelligence into real-world products that solve real-world pain.
 </p>
 
 ---
 
-### 📌 About Me
+### 🧠 About Me
 
-🎯 Product Manager in Sydney, working at the intersection of AI, design, and user needs.  
-🧠 Currently building two AI-powered products from scratch.  
-📈 Obsessed with high-signal decision making, fast feedback loops, and solving real problems with data.
+🎯 Product Manager in Sydney building at the intersection of **AI**, **voice tech**, and **UX**.  
+🚀 Currently developing two AI-first tools: **SurveyGPT** and **AI Receptionist** from scratch.  
+📊 I care deeply about building fast, validating early, and solving for real signal—not noise.  
+⚙️ I work across the full stack — from writing PRDs and designing flows to deploying ML pipelines.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 📊 SurveyGPT-ai – AI-Powered Survey Insight Generator *(Building)*  
-> Turn survey results into instantly actionable insights using GPT-4 + ML.  
-> Upload CSV → cluster feedback → auto-summarize trends → export results.
+#### 🧠 **SurveyGPT** – AI-Powered Survey Insight Generator *(In Progress)*  
+Turn survey data into instant insights with GPT-4 and unsupervised clustering.  
+→ Upload CSV → Group feedback → Summarize trends → Export to PDF/Notion.
 
-Tech Stack: `Python`, `Streamlit`, `GPT-4`, `KMeans`, `UMAP`, `Supabase`, `sentence-transformers`  
+Tech: `Python`, `Streamlit`, `GPT-4`, `KMeans`, `UMAP`, `Supabase`, `sentence-transformers`  
 → [Repo coming soon]() • [Demo preview]()
 
 ---
 
-#### 📈 AlgoBot – Signal-Based Strategy Engine *(Building)*  
-> Crypto trading bot that uses ML (Random Forest) to classify trade setups and signal entries.  
-> Integrated with Pine Script strategies and GPT-4 for explainability.
+#### ☎️ **AI Receptionist** – Voice-First Inbound Call Assistant *(In Progress)*  
+Autonomous GPT-4-powered voice agent handling 80–90% of inbound calls for SMBs.  
+→ Real-time bookings, FAQs, SMS/email confirmations, multi-accent NLU, smart routing.
 
-Tech Stack: `Python`, `scikit-learn`, `Pine Script`, `GPT-4`, `Streamlit`, `Backtesting.py`  
-→ [Repo coming soon]() • [Strategy deck]()
+Tech: `GPT-4`, `Claude`, `Twilio Voice`, `PostgreSQL`, `Redis`, `Kubernetes`, `React`, `WebRTC`  
+→ [Repo coming soon]() • [Architecture diagram]()
 
 ---
 
-#### 🧊 Ice-Breaker App *(Archived)*  
-> Personalized conversation generator using real-time LinkedIn + Twitter data and GPT-4.
+#### 📈 **AlgoBot** – Signal-Based Strategy Engine *(In Progress)*  
+ML-driven crypto bot using Random Forest + Pine Script for signal classification + trade explainability.  
+→ Backtest, classify setups, deploy signals via Streamlit dashboard.
+
+Tech: `Python`, `scikit-learn`, `Streamlit`, `Backtesting.py`, `Pine Script`, `GPT-4`  
+→ [Repo coming soon]() • [Strategy deck]()
 
 ---
 
 ### 🧰 Skills & Stack
 
 **Frameworks**  
-`Agile` • `Scrum` • `RICE` • `MoSCoW` • `AARRR`
+`Agile` • `Scrum` • `RICE` • `AARRR` • `MoSCoW`
 
 **Languages & Tools**  
-`Python` • `GPT-4` • `Streamlit` • `Pine Script` • `SQL` • `scikit-learn` • `LangChain` • `Jira` • `Figma` • `Notion`
+`Python` • `GPT-4 / Claude` • `Streamlit` • `PostgreSQL` • `Redis` • `LangChain` • `scikit-learn` • `Twilio`  
+`Supabase` • `FastAPI` • `Pine Script` • `Jira` • `Notion` • `Figma` • `Docker` • `GitHub Actions`
 
-**Soft Skills**  
-🗣️ Stakeholder Management • 🎯 Outcome-Driven Execution • 📊 Data-Informed Product Decisions • 💡 UX-Led Discovery
+**Product Strengths**  
+📊 Data-Informed Execution • 🎤 Conversational UX Design • 🧪 Fast Experimentation Loops  
+🧩 Full-Stack Integration Thinking • ⚙️ Technical Fluency with Engineers • 💡 Zero-to-One Problem Solving
 
 ---
 
